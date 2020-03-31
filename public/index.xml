@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arianna Krinos - Biological Oceanography Ph.D. student on Arianna Krinos: PhD Student in Biological Oceanography</title>
+    <link>http://akrinos.github.io/</link>
+    <description>Recent content in Arianna Krinos - Biological Oceanography Ph.D. student on Arianna Krinos: PhD Student in Biological Oceanography</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 19 Mar 2020 18:28:28 +0200</lastBuildDate>
+    
+	<atom:link href="http://akrinos.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Arianna</title>
+      <link>http://akrinos.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://akrinos.github.io/about/</guid>
+      <description>I am a biological oceanographer and microbial ecologist in the MIT-WHOI Joint Program, where I study coccolithophores using bioinformatics and modeling.
+I graduated from Virginia Tech in 2019, where I studied Computer Science, Biological Sciences, and Computational Modeling and Data Analytics. I have had a long-standing interest in mathematics and operational thinking on one hand, and biology, marine science, and naturalism of the other, and I have been so pleasantly surprised to find a natural combination of the two in my work.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://akrinos.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://akrinos.github.io/contact/</guid>
+      <description>Feel free to email me at akrinos@mit.edu, or reach out to me on Twitter as @ariannakrinos.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://akrinos.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://akrinos.github.io/projects/</guid>
+      <description>In the future, I&amp;rsquo;ll populate this page with information about and results from my current and past projects.</description>
+    </item>
+    
+  </channel>
+</rss>
