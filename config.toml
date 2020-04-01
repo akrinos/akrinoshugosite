@@ -1,4 +1,6 @@
 baseurl = "http://akrinos.github.io"
+relativeURLs = true
+uglyURLs = true
 title = "Arianna Krinos: PhD Student in Biological Oceanography"
 
 theme = "hugo-coder"
