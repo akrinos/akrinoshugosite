@@ -1,6 +1,6 @@
-baseurl = "http://akrinos.github.io"
+baseurl = "//akrinos.github.io/"
 relativeURLs = true
-uglyURLs = true
+#uglyURLs = true
 title = "Arianna Krinos: PhD Student in Biological Oceanography"
 
 theme = "hugo-coder"
@@ -26,7 +26,7 @@ disqusShortname = "akrinos"
     #gravatar = "john.doe@example.com"
     footercontent = "Thanks for visiting my personal website!"
 
-    dateformat = "March 31, 2020"
+    #dateformat = "2020-03-31"#"Tuesday, Mar 31, 2020"
 
     hideCredits = true
     hideCopyright = false
@@ -91,7 +91,10 @@ disqusShortname = "akrinos"
     url = "https://akrinos.github.io/index.xml"
     rel = "alternate"
     type = "application/rss+xml"
-
+[[params.mainPages]]
+    "index.html" = "/index.html"
+    "about/" = "/about/index.html"
+    "contact/" = "/contact/index.html"
 
 [languages]
     [languages.en]
